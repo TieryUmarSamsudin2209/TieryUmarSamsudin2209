@@ -16,8 +16,3 @@
 
 ![Tiery's GitHub stats](https://github-readme-stats.vercel.app/api?username=TieryUmarSamsudin2209&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TieryUmarSamsudin2209&layout=compact&theme=radical)
-
-![Header]([https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://share.google/images/PcfNu7qvZZ8bZkwir))
-
-
-
