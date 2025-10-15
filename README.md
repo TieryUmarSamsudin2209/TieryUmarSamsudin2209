@@ -13,7 +13,6 @@
 ![js](https://skillicons.dev/icons?i=js)
 ![php](https://skillicons.dev/icons?i=php)
 ![mysql](https://skillicons.dev/icons?i=mysql)
-![laravel](https://skillicons.dev/icons?i=laravel)
 
 ![Tiery's GitHub stats](https://github-readme-stats.vercel.app/api?username=TieryUmarSamsudin2209&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TieryUmarSamsudin2209&layout=compact&theme=radical)
