@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Tiery Umar
-### Passionate Web Developer | PHP • JS • CSS • MySQL Enthusiast 🚀
+# 👋 Hello Everyone..., i'm Tiery Umar Samsudin
+### Web Developer | PHP • JS • CSS • MySQL 🚀
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **Laravel**, **React**, and **API Development**
+- 🌱 I’m currently learning **Laravel**, **React**
 - 💼 I build simple web apps with **PHP, MySQL, and JavaScript**
 - 🎯 Goal: Become a full-stack developer
 - ⚡ Fun fact: I debug more than I sleep 😆
