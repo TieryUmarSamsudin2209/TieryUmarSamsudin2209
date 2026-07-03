@@ -1,18 +1,26 @@
-# 👋 Hello Everyone..., i'm Tiery Umar Samsudin
-### Web Developer | PHP • JS • CSS • MySQL 🚀
+# 👋 Hello Everyone..., I'm Tiery Umar Samsudin
+### 💻 Web & Mobile Apps Developer | PHP • JS • CSS • MySQL • Flutter • Express 🚀
+
+---
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **Laravel**, **React**
-- 💼 I build simple web apps with **PHP, MySQL, and JavaScript**
-- 🎯 Goal: Become a full-stack developer
+- 🌱 Currently learning **Laravel**, **React**, and **Flutter**
+- 💼 Building web apps with **PHP, MySQL, JavaScript, Express.js**
+- 📱 Developing mobile apps using **Flutter**
+- 🎯 Goal: Become a **Full-Stack Developer** (Web + Mobile)
 - ⚡ Fun fact: I debug more than I sleep 😆
 
+---
+
 ## 🧰 Tech Stack
+### 🌐 Web Development
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![js](https://skillicons.dev/icons?i=js)
-![php](https://skillicons.dev/icons?i=php)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![PHP](https://skillicons.dev/icons?i=php)
 ![mysql](https://skillicons.dev/icons?i=mysql)
+![express](https://skillicons.dev/icons?i=express)
 
-![Tiery's GitHub stats](https://github-readme-stats.vercel.app/api?username=TieryUmarSamsudin2209&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TieryUmarSamsudin2209&layout=compact&theme=radical)
+### 📱 Mobile Development
+![flutter](https://skillicons.dev/icons?i=flutter)
+![dart](https://skillicons.dev/icons?i=dart)
