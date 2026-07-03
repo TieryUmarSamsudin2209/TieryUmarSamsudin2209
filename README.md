@@ -20,6 +20,10 @@
 ![PHP](https://skillicons.dev/icons?i=php)
 ![mysql](https://skillicons.dev/icons?i=mysql)
 ![express](https://skillicons.dev/icons?i=express)
+![laravel](https://skillicons.dev/icons?i=laravel)
+![nextjs](https://skillicons.dev/icons?i=nextjs)
+![react](https://skillicons.dev/icons?i=react)
+![tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### 📱 Mobile Development
 ![flutter](https://skillicons.dev/icons?i=flutter)
