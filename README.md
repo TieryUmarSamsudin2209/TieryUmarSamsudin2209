@@ -24,6 +24,7 @@
 ![nextjs](https://skillicons.dev/icons?i=nextjs)
 ![react](https://skillicons.dev/icons?i=react)
 ![tailwind](https://skillicons.dev/icons?i=tailwind)
+![nodejs](https://skillicons.dev/icons?i=nodejs)
 
 ### 📱 Mobile Development
 ![flutter](https://skillicons.dev/icons?i=flutter)
